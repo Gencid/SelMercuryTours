@@ -1,0 +1,15 @@
+"""User and pass"""
+d_username = "Usuario"
+d_password = "Contraseña"
+
+"""Personal data"""
+d_name = "Fulanito"
+d_lastname = "de Tal"
+d_phone = "555 55 55"
+d_email = "prueba@testing.com"
+d_dir1 = "251 Something Street"
+d_dir2 = "Apartment T, Second Floor"
+d_city = "Testville"
+d_state = "Testington"
+d_postcode = "73575"
+d_country = 23
